@@ -1,0 +1,24 @@
+.main {
+    background-image: linear-gradient(red, white, blue);
+    height: 1000px;
+    padding: 20px;
+    /* background: grey; */
+}
+
+.display {
+    font-size: 30px;
+}
+
+.send {
+    font-size: 40px;
+}
+
+.reverse {
+    font-size: 40px;
+}
+
+.input {
+    height: 40px;
+    width: 300px;
+    margin-left: 20px;
+}
